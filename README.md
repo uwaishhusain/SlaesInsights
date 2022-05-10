@@ -14,3 +14,7 @@ I have added timeline as well to see the performance year wise or month wise.
 ## Credits
 I have learned and used the resources provided by [Codebasics][1].
 
+## Dashboard View
+![Tableau](https://user-images.githubusercontent.com/105152670/167635906-f5e46258-1200-4e8c-9f44-23ecb5e1e63f.jpg)
+
+[1]: https://codebasics.io/  "Codebasics"
